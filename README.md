@@ -19,7 +19,7 @@ title="EU" width="300" height="330" align="right" />
 ---------------
 ### ⚡ Programming and Markup languages
 
-> * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-JAVA-181717?&logo=java&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/-HTML-181717?&logo=HTML5&logoColor=FFFFFF) ![MARKDOWN](https://img.shields.io/badge/-MD-181717?&logo=MARKDOWN&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-181717?&logo=css3&logoColor=FFFFFF)
+> * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-JAVA-181717?&logo=java&logoColor=FFFFFF) ![MARKDOWN](https://img.shields.io/badge/-MD-181717?&logo=MARKDOWN&logoColor=FFFFFF) 
 
 ### 🤖 Frameworks & Libs
 
@@ -43,7 +43,7 @@ title="EU" width="300" height="330" align="right" />
 
 ### 💚 IDE'S & Code editors
 
-> * ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![Vim](https://img.shields.io/badge/-Vim-181717?&logo=vim&logoColor=FFFFFF) 
+> * ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
 
 ### 🐧 OS
 
@@ -52,3 +52,5 @@ title="EU" width="300" height="330" align="right" />
 ---------------
 
 ## **Contact Info** ;)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/everton-danilo-lustosa-ribeiro-a8a419107/)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/lribeirodanilo/)
