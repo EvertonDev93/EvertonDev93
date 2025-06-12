@@ -14,7 +14,7 @@ title="EU" width="300" height="330" align="right" />
 > * 💼 I'm currently working at [**BDO Brazil**](https://www.linkedin.com/company/bdobrazil), As Back-End Developer.
 > * 🎓 Graduated in Information System At [**IMPACTA**](https://www.impacta.edu.br/)
 > * 🛠️ Data Science Enthusiast.
-> * 🔭 I'm in love with games, bodybuilding, astronomy, gastronomy.
+> * 🔭 I'm in love with games, astronomy, gastronomy.
 
 ---------------
 ### ⚡ Programming and Markup languages
